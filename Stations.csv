@@ -1,0 +1,217 @@
+﻿number,lat,lng,name
+15001,51.108004,17.039528,Plac Dominikański (Galeria Dominikańska)
+15002,51.09710806,17.03610957,"Dworzec Główny, południe"
+15003,51.109782,17.030175,Rynek
+15004,51.09975,17.036228,Dworzec Główny 
+15005,51.124879,17.045844,Nowowiejska / Jedności Narodowej
+15006,51.125276,16.984447,Legnicka / Wejherowska
+15007,51.112154,17.060451,Rondo Reagana
+15008,51.100862,17.008224,Pereca / Grabiszyńska
+15009,51.086689,17.01248,Powstańcow Śląskich / Aleja Hallera
+15010,51.094413,16.980911,Grabiszyńska / Aleja Hallera
+15011,51.094521,17.020876,Szczęśliwa (Sky Tower)
+15012,51.112911,17.00136,Śrubowa / Strzegomska
+15013,51.105207,17.053675,Na Grobli (PWr - Geocentrum)
+15014,51.126907,16.978759,Lotnicza / Na Ostatnim Groszu
+15015,51.095322,17.033388,Dyrekcyjna / Borowska (Wroclavia)
+15016,51.088908,17.034051,Kamienna / Borowska (Aquapark)
+15017,51.11356205,17.05067396,Wyszyńskiego / Szczytnicka
+15018,51.111727,17.06768,Radeckiego / Marcinkowskiego (Uniw. Medyczny - CNIM)
+15019,51.074868,17.032457,Borowska (Uniw. Szpital Kliniczny)
+15020,51.121059,16.993088,Legnicka (Park Magnolia)
+15021,51.118237,17.028792,Kurkowa / Dubois
+15022,51.116612,17.023873,Jagiełły / Dmowskiego 
+15023,51.091457,17.017405,Plac Powstańców Śląskich
+15024,51.10592,17.075857,Wróblewskiego (ZOO)
+15025,51.084239,17.02439,Ślężna / Aleja Wiśniowa
+15026,51.103216,16.9461,Trymanda / Mińska
+15027,51.109332,17.060511,Janiszewskiego (PWr)
+15028,51.107235,17.060715,Norwida / Wyspiańskiego (PWr)
+15029,51.120474,17.036641,Plac Świętego Macieja / Trzebnicka
+15030,51.099401,16.941016,Mińska / Stanisławowska
+15032,51.110274,17.034912,Wita Stwosza / Szewska
+15033,51.103354,17.030704,Plac Kościuszki (Renoma)
+15034,51.111489,17.020981,Plac Jana Pawła II (Akademia Muzyczna)
+15035,51.113871,17.034484,Plac Uniwersytecki (UWr)
+15036,51.1124406,16.988554,Fabryczna / Wagonowa
+15037,51.104413,17.022536,Plac Legionów
+15038,51.101322,17.028528,Świdnicka / Piłsudskiego (Hotel Scandic)
+15039,51.1004,17.045083,Kościuszki / Pułaskiego
+15040,51.110001,17.047736,Plac Powstańców Warszawy (Muzeum Narodowe)
+15041,51.098959,17.051519,Kościuszki / Komuny Paryskiej / Zgodna
+15042,51.104571,17.048102,Traugutta / Pułaskiego
+15043,51.115354,16.998732,Stacyjna (Dworzec Mikołajów)
+15044,51.113703,17.006287,Plac Strzegomski / Poznańska
+15045,51.117668,17.007137,Zachodnia / Poznańska
+15046,51.117032,17.033499,Drobnera / Dubois
+15047,51.121308,17.043077,Poniatowskiego / Oleśnicka
+15048,51.122424,17.052013,Nowowiejska / Wyszyńskiego
+15049,51.12566,17.050463,Żeromskiego / Daszyńskiego
+15050,51.122313,17.047515,Żeromskiego / Kluczborska
+15051,51.110662,17.052712,Joliot-Curie (Uwr)
+15052,51.115564,17.060704,Sienkiewicza / Piastowska
+15053,51.116822,17.051845,Sienkiewicza / Wyszyńskiego
+15054,51.110415,17.055591,Plac Grunwaldzki / Polaka
+15055,51.10411,17.084711,Wróblewskiego (Teki)
+15056,51.094653,17.026775,Komandorska / Sanocka
+15057,51.089842,17.028225,Ślężna / Kamienna (Uniw. Ekonomiczny)
+15058,51.08451,16.97223,Oporów (pętla tramwajowa)
+15059,51.097209,17.013967,Zaporoska / Gajowicka
+15060,51.097147,17.056251,Traugutta / Kościuszki
+15061,51.119311,17.056784,Nowowiejska / Górnickiego
+15062,51.113912,17.067207,Plac Grunwaldzki (DS Ołówek)
+15063,51.102117,17.013683,Zaporoska / Grabiszyńska
+15064,51.099354,17.000697,Grabiszyńska / Stalowa
+15065,51.093426,17.002893,Krucza / Mielecka / Stalowa
+15066,51.089315,17.001501,Aleja Hallera / Mielecka
+15067,51.095597,17.008045,"Grochowa / Jemiołowa,"
+15068,51.099713,17.027905,Powstańców Śląskich (Arkady Wrocławskie)
+15069,51.113141,17.012175,Legnicka / Młodych Techników
+15070,51.098027,17.006977,Żelazna / Pereca
+15072,51.107471,17.033335,Szewska / Kazimierza Wielkiego 
+15073,51.122636,16.975708,Na Ostatnim Groszu
+15074,51.096659,16.988566,Grabiszyńska / Magazynierska (Corte Verona)
+15075,51.117155,17.000368,Legnicka / Zachodnia 
+15077,51.104163,17.031115,Fosa Miejska 
+15078,51.108288,17.064884,Łukasiewicza / Smoluchowskiego (PWr)
+15079,51.110342,17.02601,Kazimierza Wielkiego (Helios)
+15080,51.117557,17.040967,Drobnera / Plac Bema
+15081,51.147339,17.11452,Krzywoustego - Rynek Psie Pole
+15082,51.13699,16.966199,Pilczycka / Kozanowska
+15083,51.132259,17.065453,Aleja Kromera
+15084,51.145074,16.871502,Leśnica - pętla tramwajowa
+15086,51.063834,17.083366,Mościckiego (stacja kolejowa)
+15087,51.059458,17.006542,Zwycięska / Ołtaszyńska
+15088,51.111874,16.960692,Strzegomska / Estońska
+15089,51.07692,17.041439,Świeradowska (Ferio Gaj )
+15090,51.0657771,16.98857546,Wałbrzyska - pętla tramwajowa
+15091,51.051546,17.059094,Buforowa - Vivaldiego
+15092,51.143633,16.950712,Pilczycka (Stadion Miejski)
+15093,51.085018,17.049193,Bardzka / Piękna
+15094,51.136111,17.036262,Żmigrodzka / Broniewskiego
+15095,51.100211,16.951602,Tyrmanda / Trawowa
+15096,51.16033211,17.13368297,Zatorska / Królewska - pętla MPK
+15097,51.110299,17.117854,Marca Polo (Olimpia Port)
+15099,51.17592,16.998482,Waniliowa / Cynamonowa
+15100,51.123237,16.924321,Żernicka
+15101,51.136786,17.030368,Obornicka / Bałtycka
+15103,51.12843,17.0363,Kraszewskiego / Trzebnicka
+15104,51.06277,17.0321,Grota-Roweckiego / Parafialna
+15105,51.077147,17.046785,Świeradowska / Krynicka
+15106,51.14035,17.08494,Krzywoustego / Korona
+15107,51.11869,16.95336,Rogowska / Zemska
+15108,51.12353,16.95059,Hermanowska / Kołobrzeska
+15109,51.0775,16.96396,Solskiego / al. Piastów
+15110,51.06404,16.97753,Czekoladowa / Wałbrzyska
+15111,51.08015,17.06228,Tarnogajska / Klimasa
+15112,51.07748,17.08405,Opolska / pętla tramwajowa
+15113,51.10702,16.94971,Graniczna / Strzegomska
+15114,51.15013,17.02903,Żmigrodzka / Marino
+15115,51.05672,17.02211,Kutrzeby / Hubala
+15116,51.0586,17.01411,Zwycięska / Agrestowa
+15117,51.061492,16.997511,al. Karkonoska / Jeździecka
+15118,51.07708,17.01824,Ślężna / Skierniewicka
+15119,51.11059,16.95514,Strzegomska / Rogowska 
+15120,51.08149,17.07693,Karwińska / Opolska
+15121,51.12695,17.02804,Reymonta / Kleczkowska
+15122,51.118899,17.013477,Młodych Techników
+15123,51.12599,16.99725,Popowicka / Niedźwiedzia 
+15124,51.13258,16.95697,Lotnicza / Metalowców
+15125,51.09431,17.01479,Zaporoska / Wielka / Krucza
+15126,51.15755,16.92781,Maślicka / Stodolna
+15127,51.12658,16.95499,Bystrzycka / Idzikowskiego
+15128,51.120068,17.077684,al. Kochanowskiego / Śniadeckich 
+15129,51.13198,17.07945,al. Brücknera / Kwidzyńska
+15130,51.13252,16.97377,Kozanowska / Pilczycka
+15131,51.140713,16.958199,Pilczycka / Koszykarska
+15132,51.150227,17.118549,al. Jana III Sobieskiego / stacja kolejowa
+15133,51.147082,17.042321,Kamieńskiego / Jutrosińska
+15134,51.05927,17.07877,Semaforowa
+15135,51.10209,17.10168,Olszewskiego / Spółdzielcza
+15136,51.101431,17.108481,"Olszewskiego, pętla tramwajowa"
+15137,51.105578,17.111316,Bacciarellego
+15138,51.11514,17.07436,al. Kochanowskiego / Kopernika
+15139,51.13959,17.03216,Bałtycka / Żmigrodzka
+15140,51.14156,17.02587,Bezpieczna / Obornicka
+15141,51.125652,16.968627,Drzewieckiego / Dedala
+15142,51.072302,17.012384,Ślężna / pętla tramwajowa
+15143,51.05909,17.08687,Mościckiego / Chińska 
+15144,51.09053,17.06373,Krakowska / Leroy Merlin
+15145,51.14128,17.06613,Koszarowa / UWr
+15146,51.14905,17.07565,Sołtysowicka / Redycka
+15147,51.142596,17.081411,al. Poprzeczna / stacja kolejowa
+15148,51.06841,17.00399,Przyjaźni / Karkonoska
+15149,51.06667,16.99435,Przyjaźni
+15150,51.06628,17.05825,Konduktorska
+15151,51.120913,16.876257,Jerzmanowska
+15152,51.08476,17.05309,Nyska / Piękna
+15153,51.12469,17.03488,pl. Powstańców Wielkopolskich
+15154,51.12274,17.03061,Plac Staszica
+15155,51.12814,17.05477,Jedności Narodowej / Wyszyńskiego
+15156,51.11397,17.10395,Mickiewicza / pętla tramwajowa
+15157,51.08361,17.03523,al. Armii Krajowej / Borowska
+15158,51.09152,17.04033,Gliniana / Gajowa
+15159,51.087764,17.039318,Kamienna / Tomaszowska
+15160,51.08283,17.04824,al. Armii Krajowej / Bardzka
+15161,51.09126,16.98581,Hallera / Odkrywców
+15162,51.07329,16.99485,Skarbowców / Wietrzna
+15163,51.08022,16.99467,Racławicka / Rymarska
+15164,51.13004,16.96605,Lotnicza / Bajana
+15165,51.10666,17.14298,Strachocińska / Wieśniacza
+15166,51.17759,17.01588,Księgarska / Dekarska / Zduńska
+15167,51.11803073,17.09556341,Stadion Olimpijski
+15168,51.08729,17.05115,Nyska / Jesionowa
+15169,51.083551,17.060519,al. Armii Krajowej / Tarnogajska
+15170,51.15127,16.86564,Prochowicka / Dolnobrzeska
+15171,51.14395,16.89012,Boguszowska / Kosmonautów
+15172,51.127778,16.990915,Popowicka 
+15173,51.13884,16.93191,Kosmonautów / Glinianki / WUWA2
+15174,51.15509,17.13249,Wilanowska
+15175,51.16077283,17.12273419,Okulickiego
+15176,51.142323,17.127246,Poleska / Litewska
+15177,51.10224,17.11645,Bacciarellego / pętla autobusowa
+15178,51.14597,16.86692,Średzka / Dolnobrzeska 
+15179,51.11464,17.13042,Miłoszycka / Swojczycka 
+15180,51.16322,16.89648,Stabłowicka / Główna 
+15181,51.15435,16.89888,Wojanowska / Arbuzowa 
+15183,51.14574,17.13493,Kiełczowska
+15184,51.141797,17.123711,Gorlicka / Litewska
+15185,51.137258,17.048546,Kasprowicza / Syrokomli
+15186,51.148528,17.020477,"Paprotna / Obornicka, zajezdnia MPK"
+15187,51.14221,16.90591,"Kosmonautów / Fieldorfa, szpital wojewódzki"
+15188,51.171074,16.902364,Stabłowicka 
+15189,51.149606,16.938033,Mrągowska / Rolna
+15190,51.109457,17.097924,Partyzantów / Okrzei
+15191,51.089572,17.045321,Hubska / Prudnicka
+15192,51.05864,17.05717,Jagodzińska / Buforowa
+15193,51.103854,17.03678,Kołłątaja / Podwale
+15194,51.071275,17.090906,Opolska / Siemianowicka
+15195,51.11289,17.03971,Piaskowa / św. Ducha
+15196,51.109433,16.969097,Klecińska / Duńska
+15197,51.10823,17.02138,pl. Orląt Lwowskich
+15198,51.09009,17.0235,Komandorska / Kamienna
+15199,51.13707,16.94095,"Wrocław Stadion, stacja kolejowa"
+15200,51.14323,16.86627,"Wrocław Leśnica, stacja kolejowa"
+15251,51.12887567,17.04499841,Promenady Wrocławskie
+15252,51.052723,16.968801,Centrum Handlowe Auchan Bielany
+15253,51.048391,16.961699,Aleja Bielany
+15254,51.129565,16.989853,Popowice
+15255,51.05687,17.03236,Grota-Roweckiego/Iwaszkiewicza
+15256,51.13197,17.11071,Kowalska/Lechitów
+15257,51.15472,17.04376,Kamieńskiego
+15258,51.165419,16.920266,Lubelska/Łukowska
+15259,51.12776,17.10254,Kwidzyńska pętla
+15260,51.09761,17.06855,Rakowiecka
+15261,51.08,17.00773,Powstańców Śląskich/Orla
+15262,51.103778,17.05155,Walońska (Angel Poland Group)
+15263,51.09724,16.97512,Klecińska (Wrocław Grabiszyn)
+15264,51.11805,16.94632,Rogowska/Sukielicka
+15265,51.13863,16.97735,Kozanowska/Pałucka
+15266,51.07236,17.04294,Piławska
+15267,51.14518,17.11679,Gorlicka/Stanety
+15268,51.1277,17.11456,3M
+15269,51.07814,17.07026,Gazowa / Międzyleska
+15270,51.13894,17.02028,Bezpieczna/Jugosławiańska
+15271,51.1052,17.02123,Piłsudskiego 13 od Jump Hall
+15272,51.07217,17.05281,Bardzka (cmentarz)
+15273,51.11251,16.978385,Otyńska
