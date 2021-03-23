@@ -139,13 +139,11 @@ def scrap_unknown():
     for index, row in tqdm(tmpFile_df.iterrows(), total=data_shape):
         print(f'\n🔽{bcolors.OKBLUE} Tag number: {row["number"]}')
 
-        request_url = row['request']
-
-        if isinstance(request_url, float):
+        if row['tag'] in "unknown":
             print(f'\n⏭️{bcolors.WARNING}  Tag number: {row["number"]} skipped')
             continue
 
-        response = requests_retry_session().get(request_url)
+        response = requests_retry_session().get(row['request'])
 
         if (response.status_code == 200):
             json_resp = json.loads(response.text)
