@@ -74,8 +74,8 @@ def main():
 
     inputFile = sys.argv[1]
     outFile = sys.argv[2]
-    around = sys.argv[3] if (len(sys.argv) == 4) else 300
-    tmpFile = "tmp.csv"
+    around = sys.argv[3] if (len(sys.argv) > 3) else 300
+    tmpFile = sys.argv[4] if (len(sys.argv) > 4) else "tmp.csv"
 
     coordinates_df = pd.read_csv(inputFile)
     tags_results = []
@@ -86,7 +86,7 @@ def main():
 
     data_shape = coordinates_df.shape[0]
     for index, row in tqdm(coordinates_df.iterrows(), total=data_shape):
-        print(f'\n🔽{bcolors.OKBLUE} Tag number: {index + 1} out of {data_shape} ...')
+        print(f'\n🔽{bcolors.OKBLUE} Tag number: {row["number"]}')
 
         request_url = f"""https://overpass-api.de/api/interpreter?data=[out:json]; 
                         (
@@ -109,8 +109,8 @@ def main():
             to_add = [row['number'], tag_for_node]
             tags_results.append(to_add)
 
-            to_add.append("")
-            tmp = pd.DataFrame([to_add], columns=["number", "tag", "request"])
+            tmp_to_add = [row['number'], tag_for_node, ""]
+            tmp = pd.DataFrame([tmp_to_add], columns=["number", "tag", "request"])
             tmp.to_csv(tmpFile, mode='a', header=False, index=False)
         print(bcolors.OKGREEN)
 
@@ -119,4 +119,44 @@ def main():
     print(f'\n🔽{bcolors.OKGREEN} All tags: {len(tags_results)} was save successfully to: {outFile}')
     print(bcolors.DEFAULT)
 
+def scrap_unknown():
+    if (len(sys.argv) < 3):
+        print(f'{bcolors.FAIL}❌ Not enought params in input')
+        print(bcolors.DEFAULT)
+        return;
+
+    tmpFile = sys.argv[1]
+    outFile = sys.argv[2]
+
+    tmpFile_df = pd.read_csv(tmpFile)
+    tags_results = []
+
+    if not os.path.exists(outFile):
+        tmp = pd.DataFrame([], columns=["number", "tag"])
+        tmp.to_csv(outFile, index=False)
+
+    data_shape = tmpFile_df.shape[0]
+    for index, row in tqdm(tmpFile_df.iterrows(), total=data_shape):
+        print(f'\n🔽{bcolors.OKBLUE} Tag number: {row["number"]}')
+
+        request_url = row['request']
+
+        if isinstance(request_url, float):
+            print(f'\n⏭️{bcolors.WARNING}  Tag number: {row["number"]} skipped')
+            continue
+
+        response = requests_retry_session().get(request_url)
+
+        if (response.status_code == 200):
+            json_resp = json.loads(response.text)
+            tag_for_node = scrap_tag_from(json_resp)
+            tmp_to_add = [row['number'], tag_for_node]
+            tmp = pd.DataFrame([tmp_to_add], columns=["number", "tag"])
+            tmp.to_csv(outFile, mode='a', header=False, index=False)
+        print(bcolors.OKGREEN)
+
+    print(f'\n🔽{bcolors.OKGREEN} All tags: {len(tags_results)} was save successfully to: {outFile}')
+    print(bcolors.DEFAULT)
+
 main()
+# scrap_unknown()

@@ -142,3 +142,221 @@ number,tag,request
 15073,education,
 15074,other,
 15075,education,
+15077,shopping,
+15078,education,
+15079,education,
+15080,education,
+15081,other,
+15082,other,
+15083,other,
+15084,other,
+15086,other,
+15087,other,
+15088,shopping,
+15089,other,
+15090,other,
+15091,other,
+15092,unknown,"https://overpass-api.de/api/interpreter?data=[out:json]; 
+                        (
+                            node['amenity'~'school|university|hospital|bus_station|cinema'](around:400, 51.143633, 16.950712);
+                            node['shop'~'mall'](around:400, 51.143633, 16.950712);
+                        );
+                        out;"
+15093,education,
+15094,other,
+15095,other,
+15096,other,
+15097,other,
+15099,other,
+15100,other,
+15101,other,
+15103,other,
+15104,other,
+15105,other,
+15106,shopping,
+15107,education,
+15108,unknown,"https://overpass-api.de/api/interpreter?data=[out:json]; 
+                        (
+                            node['amenity'~'school|university|hospital|bus_station|cinema'](around:400, 51.12353, 16.95059);
+                            node['shop'~'mall'](around:400, 51.12353, 16.95059);
+                        );
+                        out;"
+15109,education,
+15110,other,
+15111,other,
+15112,other,
+15113,shopping,
+15114,other,
+15115,other,
+15116,other,
+15117,other,
+15118,other,
+15119,education,
+15120,unknown,"https://overpass-api.de/api/interpreter?data=[out:json]; 
+                        (
+                            node['amenity'~'school|university|hospital|bus_station|cinema'](around:400, 51.08149, 17.07693);
+                            node['shop'~'mall'](around:400, 51.08149, 17.07693);
+                        );
+                        out;"
+15121,other,
+15122,education,
+15123,other,
+15124,unknown,"https://overpass-api.de/api/interpreter?data=[out:json]; 
+                        (
+                            node['amenity'~'school|university|hospital|bus_station|cinema'](around:400, 51.13258, 16.95697);
+                            node['shop'~'mall'](around:400, 51.13258, 16.95697);
+                        );
+                        out;"
+15125,other,
+15126,other,
+15127,other,
+15128,other,
+15129,education,
+15130,unknown,"https://overpass-api.de/api/interpreter?data=[out:json]; 
+                        (
+                            node['amenity'~'school|university|hospital|bus_station|cinema'](around:400, 51.13252, 16.97377);
+                            node['shop'~'mall'](around:400, 51.13252, 16.97377);
+                        );
+                        out;"
+15131,other,
+15132,other,
+15133,other,
+15134,other,
+15135,education,
+15136,unknown,"https://overpass-api.de/api/interpreter?data=[out:json]; 
+                        (
+                            node['amenity'~'school|university|hospital|bus_station|cinema'](around:400, 51.101431, 17.108481);
+                            node['shop'~'mall'](around:400, 51.101431, 17.108481);
+                        );
+                        out;"
+15137,education,
+15138,other,
+15139,other,
+15140,other,
+15141,education,
+15142,other,
+15143,unknown,"https://overpass-api.de/api/interpreter?data=[out:json]; 
+                        (
+                            node['amenity'~'school|university|hospital|bus_station|cinema'](around:400, 51.05909, 17.08687);
+                            node['shop'~'mall'](around:400, 51.05909, 17.08687);
+                        );
+                        out;"
+15144,other,
+15145,education,
+15146,education,
+15147,other,
+15148,other,
+15149,other,
+15150,other,
+15151,other,
+15152,education,
+15153,other,
+15154,other,
+15155,other,
+15156,education,
+15157,education,
+15158,education,
+15159,education,
+15160,other,
+15161,other,
+15162,education,
+15163,unknown,"https://overpass-api.de/api/interpreter?data=[out:json]; 
+                        (
+                            node['amenity'~'school|university|hospital|bus_station|cinema'](around:400, 51.08022, 16.99467);
+                            node['shop'~'mall'](around:400, 51.08022, 16.99467);
+                        );
+                        out;"
+15164,other,
+15165,other,
+15166,other,
+15167,education,
+15168,education,
+15169,other,
+15170,other,
+15171,other,
+15172,other,
+15173,other,
+15174,unknown,"https://overpass-api.de/api/interpreter?data=[out:json]; 
+                        (
+                            node['amenity'~'school|university|hospital|bus_station|cinema'](around:400, 51.15509, 17.13249);
+                            node['shop'~'mall'](around:400, 51.15509, 17.13249);
+                        );
+                        out;"
+15175,education,
+15176,education,
+15177,education,
+15178,other,
+15179,other,
+15180,other,
+15181,other,
+15183,education,
+15184,other,
+15185,other,
+15186,unknown,"https://overpass-api.de/api/interpreter?data=[out:json]; 
+                        (
+                            node['amenity'~'school|university|hospital|bus_station|cinema'](around:400, 51.148528, 17.020477);
+                            node['shop'~'mall'](around:400, 51.148528, 17.020477);
+                        );
+                        out;"
+15187,health,
+15188,unknown,"https://overpass-api.de/api/interpreter?data=[out:json]; 
+                        (
+                            node['amenity'~'school|university|hospital|bus_station|cinema'](around:400, 51.171074, 16.902364);
+                            node['shop'~'mall'](around:400, 51.171074, 16.902364);
+                        );
+                        out;"
+15189,other,
+15190,education,
+15191,other,
+15192,other,
+15193,education,
+15194,unknown,"https://overpass-api.de/api/interpreter?data=[out:json]; 
+                        (
+                            node['amenity'~'school|university|hospital|bus_station|cinema'](around:400, 51.071275, 17.090906);
+                            node['shop'~'mall'](around:400, 51.071275, 17.090906);
+                        );
+                        out;"
+15195,education,
+15196,other,
+15197,shopping,
+15198,education,
+15199,unknown,"https://overpass-api.de/api/interpreter?data=[out:json]; 
+                        (
+                            node['amenity'~'school|university|hospital|bus_station|cinema'](around:400, 51.13707, 16.94095);
+                            node['shop'~'mall'](around:400, 51.13707, 16.94095);
+                        );
+                        out;"
+15200,other,
+15251,other,
+15252,other,
+15253,shopping,
+15254,unknown,"https://overpass-api.de/api/interpreter?data=[out:json]; 
+                        (
+                            node['amenity'~'school|university|hospital|bus_station|cinema'](around:400, 51.129565, 16.989853);
+                            node['shop'~'mall'](around:400, 51.129565, 16.989853);
+                        );
+                        out;"
+15255,unknown,"https://overpass-api.de/api/interpreter?data=[out:json]; 
+                        (
+                            node['amenity'~'school|university|hospital|bus_station|cinema'](around:400, 51.05687, 17.03236);
+                            node['shop'~'mall'](around:400, 51.05687, 17.03236);
+                        );
+                        out;"
+15256,other,
+15257,other,
+15258,education,
+15259,other,
+15260,other,
+15261,education,
+15262,education,
+15263,other,
+15264,other,
+15265,other,
+15266,education,
+15267,education,
+15268,other,
+15269,other,
+15270,other,
+15271,education,
+15272,other,
+15273,other,
